@@ -5,6 +5,7 @@ chromadb
 streamlit
 langchain
 unstructured
+langchain_openai
 asttokens==2.4.1
 attrs==23.2.0
 backcall==0.2.0
