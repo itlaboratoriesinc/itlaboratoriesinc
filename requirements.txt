@@ -3,3 +3,7 @@ crewai[tools]
 streamlit
 unstructured
 langchain_openai
+openai
+dotenv
+requests
+re
