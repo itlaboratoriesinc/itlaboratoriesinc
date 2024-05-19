@@ -1,9 +1,6 @@
-crewai
 crewai[tools]
+pysqlite3-binary
+chromadb
 streamlit
+langchain
 unstructured
-langchain_openai
-openai
-dotenv
-requests
-re
